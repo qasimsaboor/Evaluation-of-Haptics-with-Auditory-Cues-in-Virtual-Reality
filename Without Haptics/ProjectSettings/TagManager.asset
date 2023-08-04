@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water
+  - Clay
+  - Shovel
+  - WaterCan
+  - OnionGrowth
+  - CarrotGrowth
+  - CucumberGrowth
+  - TomatoGrowth
+  - WaterCollider
+  - Can1
+  - Can2
+  - Can3
+  - Can4
+  - Thumb
+  - Ring
+  - Pinky
+  - Index
+  - Middle
+  - LeftThumb
+  - LeftIndex
+  - LeftMiddle
+  - LeftRing
+  - LeftPinky
+  - Tomato
+  - PitchFork
+  - Rake
+  - FinalStage
+  - onion
+  - pumpkin
+  - CucumberSeedsBag
+  - CarrotSeedsBag
+  - TomatoSeedsBag
+  - Grapes
+  - PlantGrowth
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - WhatIsGround
+  - 
+  - WhatIsPlayer
+  - WhatIsAgent
+  - WhatIsCat
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
